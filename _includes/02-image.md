@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![foto van pieter] (https://www.tragewegen.be/medewerkers/item/304-pieter-brusselman)
