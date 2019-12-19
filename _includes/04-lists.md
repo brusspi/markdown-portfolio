@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+* sports
+  * walking
+  * canoeing
+  * cycling
+* books
+  * jommeke
+  * suske en wiske
