@@ -1,1 +1,1 @@
-I have **no** programming skills but I'm *willing* to :learn: some new things 
+I have **no** programming skills but I'm *willing* to :books::eyeglasses: some new things 
